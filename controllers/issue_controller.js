@@ -29,5 +29,4 @@ module.exports.createIssue=function(req,res){
 
     })
 
-    
 }
